@@ -1,0 +1,15 @@
+D:\C#\Seminar_3_1\task_22\bin\Debug\net7.0\task_22.exe
+D:\C#\Seminar_3_1\task_22\bin\Debug\net7.0\task_22.deps.json
+D:\C#\Seminar_3_1\task_22\bin\Debug\net7.0\task_22.runtimeconfig.json
+D:\C#\Seminar_3_1\task_22\bin\Debug\net7.0\task_22.dll
+D:\C#\Seminar_3_1\task_22\bin\Debug\net7.0\task_22.pdb
+D:\C#\Seminar_3_1\task_22\obj\Debug\net7.0\task_22.csproj.AssemblyReference.cache
+D:\C#\Seminar_3_1\task_22\obj\Debug\net7.0\task_22.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Seminar_3_1\task_22\obj\Debug\net7.0\task_22.AssemblyInfoInputs.cache
+D:\C#\Seminar_3_1\task_22\obj\Debug\net7.0\task_22.AssemblyInfo.cs
+D:\C#\Seminar_3_1\task_22\obj\Debug\net7.0\task_22.csproj.CoreCompileInputs.cache
+D:\C#\Seminar_3_1\task_22\obj\Debug\net7.0\task_22.dll
+D:\C#\Seminar_3_1\task_22\obj\Debug\net7.0\refint\task_22.dll
+D:\C#\Seminar_3_1\task_22\obj\Debug\net7.0\task_22.pdb
+D:\C#\Seminar_3_1\task_22\obj\Debug\net7.0\task_22.genruntimeconfig.cache
+D:\C#\Seminar_3_1\task_22\obj\Debug\net7.0\ref\task_22.dll
